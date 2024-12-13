@@ -1,0 +1,2 @@
+# Loyiha-ishi
+Malumotlar bazasi
